@@ -1,0 +1,923 @@
+{
+  "Version": {
+    "LastGame": [
+      4,
+      4,
+      0
+    ],
+    "OriginalVersion": [
+      0,
+      0,
+      0
+    ],
+    "LastWelcomeSeen": "LOC_WELCOME_3_11",
+    "link": "594d17ef1a06b9cc0a472327",
+    "analytics": "NO_LINK{64ace1c9056642808e70f1e4fdf094e5}",
+    "skuID": ""
+  },
+  "Levels": {
+    "BattleScore": 999999999,
+    "Medallions": 999999999,
+    "Energy": 30000,
+    "Played": 1,
+    "PrivatePlayed": 1,
+    "PrivatePlayedLink": 1,
+    "Wins": 1035,
+    "WinsCard": 0,
+    "WinsStandard": 1035,
+    "Losses": 789,
+    "LossesCard": 0,
+    "LossesStandard": 789,
+    "CurrentWinStreak": 0,
+    "BestWinStreak": 360,
+    "MedallionWinsWeekly": 0,
+    "MedallionWinsTotal": 74547430,
+    "CurrentLeaderboard": "WeeklyMedallions:112",
+    "LeaderboardAwaitingReward": "",
+    "LeaderboardCountryCode": "EG",
+    "LeaderboardAwaitingRewardCountryCode": "",
+    "Avatar": 0,
+    "UseSocialAvatar": true,
+    "ProcessedLeaderboardRewards": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "Items": {
+    "TowerInventory": [
+      {
+        "Type": "MonkeyFarmer",
+        "Amount": 999999999
+      }
+    ],
+    "BloonDecal": "bullrush",
+    "MusicOn": false,
+    "SFXOn": false,
+    "EveryplayOn": true,
+    "AudioCommentaryOn": false,
+    "FaceCamCommentaryOn": false,
+    "PushNoteSettingInt": 1,
+    "EnergyRechargeBaseTime": 1500316659,
+    "EnergyRechargeRate": 900,
+    "ShowAds": false,
+    "NewDecals": false,
+    "NewStoreContent": false,
+    "Premiums": [
+      "BattlesChampion",
+      "ChatPack_Pack2",
+      "ClubRoomEntry",
+      "ClubStarterPackMobile",
+      "PowerCell",
+      "RemoveAdverts"
+    ],
+    "OfferSeen_Initial": [
+      "ClubStarterPack",
+      "ClubStarterPackMobile",
+      "EventID_imel3gek",
+      "EventID_iwc232yt",
+      "EventID_j0dyn1ye",
+      "EventID_j3pw2hsu",
+      "StarterPack",
+      "VeteranCardUpdate"
+    ],
+    "OfferSeen_24HRemain": [
+      "ClubStarterPackMobile",
+      "StarterPack"
+    ]
+  },
+  "Unlocks": {
+    "Towers": [
+      "DartMonkey",
+      "TackTower",
+      "SniperMonkey",
+      "NinjaMonkey",
+      "BombTower",
+      "BoomerangThrower",
+      "MonkeyApprentice",
+      "MonkeyBuccaneer",
+      "SpikeFactory",
+      "BananaFarm",
+      "MonkeyAce",
+      "IceTower",
+      "GlueGunner",
+      "MortarTower",
+      "SuperMonkey",
+      "MonkeyVillage",
+      "DartlingGun",
+      "MonkeyEngineer",
+      "HeliPilot",
+      "Bloonchipper",
+      "MonkeySub",
+      "CobraMonkey"
+    ],
+    "TowerUpgrades": [
+      [
+        "DartMonkey",
+        4
+      ],
+      [
+        "TackTower",
+        4
+      ],
+      [
+        "SniperMonkey",
+        4
+      ],
+      [
+        "NinjaMonkey",
+        4
+      ],
+      [
+        "BombTower",
+        4
+      ],
+      [
+        "BoomerangThrower",
+        4
+      ],
+      [
+        "MonkeyApprentice",
+        4
+      ],
+      [
+        "MonkeyBuccaneer",
+        4
+      ],
+      [
+        "SpikeFactory",
+        4
+      ],
+      [
+        "BananaFarm",
+        4
+      ],
+      [
+        "MonkeyAce",
+        4
+      ],
+      [
+        "IceTower",
+        4
+      ],
+      [
+        "GlueGunner",
+        4
+      ],
+      [
+        "MortarTower",
+        4
+      ],
+      [
+        "SuperMonkey",
+        4
+      ],
+      [
+        "MonkeyVillage",
+        4
+      ],
+      [
+        "DartlingGun",
+        4
+      ],
+      [
+        "MonkeyEngineer",
+        4
+      ],
+      [
+        "HeliPilot",
+        4
+      ],
+      [
+        "Bloonchipper",
+        4
+      ],
+      [
+        "MonkeySub",
+        4
+      ],
+      [
+        "CobraMonkey",
+        4
+      ]
+    ],
+    "Decals": [
+                  "swords", "bullrush", "stormed", "golden", "pickedoff", "laterz", "angry", "smile", "nuked", "supermonkey", "lol", "knight", "gauntlet", "burning_love", "twisted_desire", "lucky_charm", "poppin_paddy", "easter_bunny", "eggcellent", "monkey_of_liberty", "feathered_freedom", "boo", "count_dartula", "trick_or_treat", "frankenmonkey", "elf", "reindeer", "jack_frost", "st_nick", "bomb", "santahat", "snowman", "skull", "crackingup", "kingofthesea", "darkknight", "backstabber", "bloonception", "ninjakiwi", "imposter", "scalper", "heartbreaker", "king", "queen", "mockery", "scrooge", "tanked_up", "battlemaster", "conquest", "exit", "hardnut", "jugger", "ko", "nothing_left", "ironclad", "leakfree", "bloonjaminfranklin", "rainmaker", "sailingaway", "tunez", "mrfrosty", "muthabucca", "peacebrother", "roughneck", "sweettooth", "watchingyou", "kerbstomp", "magnum", "slowcoach", "spreadthelove", "teatime", "tothepoint", "infectious", "mighty", "smokin", "yourenext", "giggles", "medic", "slippery", "targetpractice", "lightweight", "pyro", "toxic", "warmingup", "goodnight", "wasted", "candycane", "holly", "snowflake", "stocking", "dracula", "jack", "australia", "brazil", "canada", "china", "denmark", "england", "france", "germany", "ireland", "israel", "italy", "japan", "korea", "newzealand", "northern_ireland", "norway", "russia", "scotland", "sweden", "uk", "usa", "wales"
+    ],
+    "New": {},
+    "TipsSeen": 939524099,
+    "SentAchievementData": [
+      "BTDB_Winner",
+      "BTDB_JackOfAllTowers",
+      "BTDB_WhatDidYouExpect",
+      "BTDB_PoppingStreak",
+      "BTDB_TheBiggerTheyAre",
+      "BTDB_OpenSeason",
+      "BTDB_Unspoppable",
+      "BTDB_Penultimate",
+      "BTDB_TopTier",
+      "BTDB_Boosted",
+      "BTDB_UberPopper",
+      "BTDB_Spawner",
+      "BTDB_TattooYou",
+      "BTDB_WarPaint"
+    ],
+    "ViewedScreenHelp": [
+      "ChampionshipBracketIntro",
+      "card_battle_tutorial"
+    ],
+    "ViewedRuleSet": [
+      "1.0",
+      "FreePowerups_1.0",
+      "ClassicRules_1.0",
+      "PlayWithFire_1.0",
+      "Speed_MegaBoost_1.0",
+      "MegaBoosts_1.0",
+      "Speed_PlayWithFire_1.0",
+      "Speed_1.0",
+      "R3_Bananza_PlayWithFire_1.0",
+      "Speed_Bananza_PlayWithFire_1.0"
+    ]
+  },
+  "Upgrades": {},
+  "AchievementAndScoreTracking": {
+    "QuickPlayBattlesWon": 2109,
+    "QuickPlayBattlesWonAssault": 6,
+    "QuickPlayBattlesLostAssault": 0,
+    "QuickPlayBattlesWonDefense": 0,
+    "QuickPlayBattlesLostDefense": 0,
+    "QuickPlayBattlesWonArena": 1508,
+    "QuickPlayBattlesLostArena": 71,
+    "QuickPlayBattlesWonCardBattle": 0,
+    "QuickPlayBattlesLostCardBattle": 2,
+    "QuickPlayBattlesWonTraining": 0,
+    "QuickPlayBattlesLostTraining": 0,
+    "QuickPlayBattlesWonInRow": 0,
+    "QuickplayMaxBattlesWonInRow": 158,
+    "BattlesWon": 2542,
+    "BattlesLostInRow": 1,
+    "BattlesWonAgainstLowerScore": 1415,
+    "BattlesWonAgainstHigherScore": 692,
+    "BattlesWonWithRandomLoadout": 183,
+    "BattlesWonUsingDecals": 1,
+    "BattlesSinceAd": 2686,
+    "BattlesSinceSignInPrompt": 383,
+    "SignInPromptCount": 1,
+    "TotalBloonsPopped": 25722791,
+    "TotalBloonsSent": 775343,
+    "TimesUsedBoosts": 6964,
+    "AttemptedAccountCreation": false
+  },
+  "AchievementProgressObject": {
+    "AchievementProgressArray": [
+      {
+        "Identifier": "BTDB_Boosted",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_GettingDefensive",
+        "Progress": 0
+      },
+      {
+        "Identifier": "BTDB_HeavyAssault",
+        "Progress": 6
+      },
+      {
+        "Identifier": "BTDB_JackOfAllTowers",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_OpenSeason",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_Penultimate",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_PoppingStreak",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_Spawner",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_TattooYou",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_TheBiggerTheyAre",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_TopTier",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_UberPopper",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_Unspoppable",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_WarPaint",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_WhatDidYouExpect",
+        "Progress": 100
+      },
+      {
+        "Identifier": "BTDB_Winner",
+        "Progress": 100
+      }
+    ]
+  },
+  "NewFeatures": [
+    {
+      "Id": "BATTLESTV",
+      "Seen": true
+    },
+    {
+      "Id": "PRESTIGE_LB",
+      "Seen": true
+    }
+  ],
+  "TimeLimitItemFirstSeen": [
+    {
+      "ItemId": "ClubStarterPack",
+      "TimeSeen": 1491643154
+    },
+    {
+      "ItemId": "ClubStarterPackMobile",
+      "TimeSeen": 1466604181
+    },
+    {
+      "ItemId": "StarterPack",
+      "TimeSeen": 1459079745
+    }
+  ],
+  "NumBattleGearSlots": 1,
+  "BattleGearOwned": [],
+  "LastDailySpin": 1500308115101,
+  "DailySpins": 0,
+  "SpinSeed": 0,
+  "LastSpinAdTokenAddTime": 1500249600000,
+  "SpinAdTokens": 24,
+  "LastFreeClubEntry": 1459584249555,
+  "FreeClubRoomEntries": 0,
+  "ArenaTickets": [],
+  "PubSubStamps": [
+    {
+      "Id": "inbox",
+      "Timestamp": 1485503885266
+    }
+  ],
+  "NKGifts": [],
+  "PlayedOpponents": [],
+  "CurrentPlayedInfo": [
+    {
+      "ID": "Assault",
+      "WinStreak": 7,
+      "WinTotal": 7
+    },
+    {
+      "ID": "BFB",
+      "WinStreak": 9,
+      "WinTotal": 498
+    },
+    {
+      "ID": "Boss_Blastapopoulos",
+      "WinStreak": 30,
+      "WinTotal": 30
+    },
+    {
+      "ID": "Boss_Bloonarius",
+      "WinStreak": 8,
+      "WinTotal": 8
+    },
+    {
+      "ID": "Boss_Dreadbloon",
+      "WinStreak": 21,
+      "WinTotal": 60
+    },
+    {
+      "ID": "Boss_Vortex",
+      "WinStreak": 7,
+      "WinTotal": 10
+    },
+    {
+      "ID": "Ceramic",
+      "WinStreak": 143,
+      "WinTotal": 727
+    },
+    {
+      "ID": "Ceramic_Club",
+      "WinStreak": 30,
+      "WinTotal": 301
+    },
+    {
+      "ID": "Holiday_HauntedHouse",
+      "WinStreak": 2,
+      "WinTotal": 2
+    },
+    {
+      "ID": "Holiday_Laboratory",
+      "WinStreak": 4,
+      "WinTotal": 4
+    },
+    {
+      "ID": "Lead",
+      "WinStreak": 27,
+      "WinTotal": 27
+    },
+    {
+      "ID": "Lead_Club",
+      "WinStreak": 4,
+      "WinTotal": 4
+    },
+    {
+      "ID": "MOAB",
+      "WinStreak": 0,
+      "WinTotal": 354
+    },
+    {
+      "ID": "MOAB_Club",
+      "WinStreak": 2,
+      "WinTotal": 8
+    },
+    {
+      "ID": "Rainbow",
+      "WinStreak": 1,
+      "WinTotal": 18
+    },
+    {
+      "ID": "Rainbow_Club",
+      "WinStreak": 0,
+      "WinTotal": 17
+    },
+    {
+      "ID": "White",
+      "WinStreak": 12,
+      "WinTotal": 12
+    },
+    {
+      "ID": "White_ChocolateBox",
+      "WinStreak": 5,
+      "WinTotal": 5
+    },
+    {
+      "ID": "White_Club",
+      "WinStreak": 12,
+      "WinTotal": 12
+    },
+    {
+      "ID": "Yellow",
+      "WinStreak": 0,
+      "WinTotal": 3
+    },
+    {
+      "ID": "Yellow_Club",
+      "WinStreak": 1,
+      "WinTotal": 3
+    }
+  ],
+  "AdTrackingData": {
+    "GameStartTime": 0,
+    "GameSpend": 214,
+    "TNInterstitial": 1478280546836,
+    "NInterstitial": 93,
+    "TNPrompt": 1478280546836,
+    "NRewardedPrompts": 95,
+    "NRewardedSeen": 31,
+    "TNBoxPrompt": 8,
+    "NBoxPrompts": 0,
+    "TNCrossPromo": 1485438758421,
+    "NCrossPromo": 103,
+    "TNSalePrompt": 10,
+    "NSalePrompts": 0,
+    "TNNewsPopup": 1500264736861,
+    "SpendAdjustment": 31536000000,
+    "TLIAPSale": 0
+  },
+  "ProviderLinkTries": [
+    3,
+    2,
+    4,
+    4
+  ],
+  "Badges": [],
+  "BadgesList": [
+    {
+      "Id": "black_diamond",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "red_diamond",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 1,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "diamond",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 2,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "gold",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 99,
+      "Score": 0,
+      "Count": 6
+    },
+    {
+      "Id": "silvergold",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 999,
+      "Score": 0,
+      "Count": 12
+    },
+    {
+      "Id": "silverx2",
+      "Type": "WORLD",
+      "CountryCode": "",
+      "Rank": 9999,
+      "Score": 0,
+      "Count": 9
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "AE",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "DE",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "ES",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "FR",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "SA",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_gold",
+      "Type": "REGION",
+      "CountryCode": "TR",
+      "Rank": 0,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_silver",
+      "Type": "REGION",
+      "CountryCode": "AU",
+      "Rank": 1,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_silver",
+      "Type": "REGION",
+      "CountryCode": "VN",
+      "Rank": 1,
+      "Score": 0,
+      "Count": 1
+    },
+    {
+      "Id": "local_silver",
+      "Type": "REGION",
+      "CountryCode": "ZA",
+      "Rank": 1,
+      "Score": 0,
+      "Count": 1
+    }
+  ],
+  "CurrentSeason": {
+    "Id": "Season_8",
+    "EventId": "j4nodvpr",
+    "Name": "Prestige Leaderboard",
+    "StartTime": 1499252400000,
+    "EndTime": 1500462000000,
+    "Banding": "[{\"badge\":\"black_diamond_prestige\",\"banding\":0,\"name\":\"black_diamond_prestige\"},{\"badge\":\"red_diamond_prestige\",\"banding\":1,\"name\":\"red_diamond_prestige\"},{\"badge\":\"diamond_prestige\",\"banding\":2,\"name\":\"diamond_prestige\"},{\"badge\":\"gold_black_diamond_prestige\",\"banding\":9,\"name\":\"gold_black_diamond_prestige\"},{\"badge\":\"gold_red_diamond_prestige\",\"banding\":24,\"name\":\"gold_red_diamond_prestige\"},{\"badge\":\"gold_diamond_prestige\",\"banding\":99,\"name\":\"gold_diamond_prestige\"},{\"badge\":\"gold_prestige\",\"banding\":999,\"name\":\"gold_prestige\"},{\"badge\":\"silver_gold_prestige\",\"banding\":2499,\"name\":\"silver_gold_prestige\"},{\"badge\":\"silver_prestige\",\"banding\":4999,\"name\":\"silver_prestige\"},{\"badge\":\"bronze_silver_prestige\",\"banding\":9999,\"name\":\"bronze_silver_prestige\"},{\"badge\":\"bronze_prestige\",\"banding\":24999,\"name\":\"bronze_prestige\"}]"
+  },
+  "AdTimer": {
+    "NextTime": 0
+  },
+  "SpendConsumableInCents": 22074,
+  "SpendNonConsumableInCents": 2197,
+  "RequiresStartingMedallions": false,
+  "AnalyticsThrottle": 15,
+  "MatchIDAppend": 0,
+  "CurrentWeeklyRewardsArray": [
+    "[{\"banding\":0,\"medallions\":50},{\"banding\":1,\"medallions\":25},{\"banding\":2,\"medallions\":10}]",
+    "[{\"badge\":\"local_gold\",\"banding\":0,\"medallions\":20000,\"name\":\"local_gold\"},{\"badge\":\"local_silver\",\"banding\":1,\"medallions\":12000,\"name\":\"local_silver\"},{\"badge\":\"local_bronze\",\"banding\":2,\"medallions\":6000,\"name\":\"local_bronze\"},{\"banding\":99,\"medallions\":3000},{\"banding\":999,\"medallions\":2000},{\"banding\":9999,\"medallions\":1200},{\"banding\":24999,\"medallions\":800},{\"banding\":49999,\"medallions\":400},{\"banding\":99999,\"medallions\":200}]",
+    "[{\"badge\":\"black_diamond\",\"banding\":0,\"medallions\":1000000,\"name\":\"black_diamond\"},{\"badge\":\"red_diamond\",\"banding\":1,\"medallions\":600000,\"name\":\"red_diamond\"},{\"badge\":\"diamond\",\"banding\":2,\"medallions\":300000,\"name\":\"diamond\"},{\"badge\":\"gold\",\"banding\":99,\"medallions\":150000,\"name\":\"gold\"},{\"badge\":\"silvergold\",\"banding\":999,\"medallions\":20000,\"name\":\"silvergold\"},{\"badge\":\"silverx2\",\"banding\":9999,\"medallions\":6000,\"name\":\"silverx2\"},{\"badge\":\"silverx1\",\"banding\":24999,\"medallions\":4000,\"name\":\"silverx1\"},{\"badge\":\"bronzex1\",\"banding\":49999,\"medallions\":2000,\"name\":\"bronzex1\"},{\"banding\":99999,\"medallions\":1000},{\"banding\":249999,\"medallions\":250},{\"banding\":499999,\"medallions\":100}]",
+    "[{\"badge\":\"black_diamond_prestige\",\"banding\":0,\"name\":\"black_diamond_prestige\"},{\"badge\":\"red_diamond_prestige\",\"banding\":1,\"name\":\"red_diamond_prestige\"},{\"badge\":\"diamond_prestige\",\"banding\":2,\"name\":\"diamond_prestige\"},{\"badge\":\"gold_black_diamond_prestige\",\"banding\":9,\"name\":\"gold_black_diamond_prestige\"},{\"badge\":\"gold_red_diamond_prestige\",\"banding\":24,\"name\":\"gold_red_diamond_prestige\"},{\"badge\":\"gold_diamond_prestige\",\"banding\":99,\"name\":\"gold_diamond_prestige\"},{\"badge\":\"gold_prestige\",\"banding\":999,\"name\":\"gold_prestige\"},{\"badge\":\"silver_gold_prestige\",\"banding\":2499,\"name\":\"silver_gold_prestige\"},{\"badge\":\"silver_prestige\",\"banding\":4999,\"name\":\"silver_prestige\"},{\"badge\":\"bronze_silver_prestige\",\"banding\":9999,\"name\":\"bronze_silver_prestige\"},{\"badge\":\"bronze_prestige\",\"banding\":24999,\"name\":\"bronze_prestige\"}]",
+    "",
+    "[]",
+    "[]",
+    "[]",
+    "[]"
+  ],
+  "PreviousWeeklyRewardsArray": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "DetectedHacks": 0,
+  "NewsContentHash": 1822056891,
+  "AttemptedPurchases": [
+    "btdbattles_cleanslate - 2016-06-30 00:09:40",
+    "btdbattles_cleanslate - 2016-06-30 02:12:02",
+    "btdbattles_cleanslate - 2016-08-03 11:39:10",
+    "btdbattles_cleanslate - 2016-08-03 13:32:01",
+    "btdbattles_powerfulenergy - 2016-08-09 13:29:00",
+    "btdbattles_cleanslate - 2016-08-26 21:14:16",
+    "btdbattles_cleanslate - 2016-08-28 13:02:57",
+    "btdbattles_clubstarterpack - 2016-08-30 23:23:50",
+    "btdbattles_cleanslate - 2016-08-30 23:23:56",
+    "btdbattles_cleanslate - 2016-08-31 13:54:08",
+    "btdbattles_powerfulenergy - 2016-09-02 20:49:59",
+    "btdbattles_powerfulenergy - 2016-09-12 19:49:42",
+    "btdbattles_powerfulenergy - 2016-09-12 19:49:46",
+    "btdbattles_cleanslate - 2016-09-21 14:52:27",
+    "btdbattles_cleanslate - 2016-09-25 09:21:09",
+    "btdbattles_cleanslate - 2016-09-28 18:37:24",
+    "btdbattles_cleanslate - 2016-10-03 09:48:16",
+    "btdbattles_chatpack_pack2 - 2016-10-27 17:05:33",
+    "btdbattles_chatpack_pack2 - 2016-10-27 21:35:40",
+    "btdbattles_powerfulenergy - 2016-11-04 17:29:03"
+  ],
+  "CompletedPurchases": [
+    "btdbattles_cleanslate - 2016-05-28 19:59:04",
+    "btdbattles_cleanslate - 2016-06-30 00:10:20",
+    "btdbattles_cleanslate - 2016-06-30 02:12:44",
+    "btdbattles_cleanslate - 2016-08-03 11:39:11",
+    "btdbattles_cleanslate - 2016-08-03 13:32:01",
+    "btdbattles_powerfulenergy - 2016-08-09 13:29:04",
+    "btdbattles_cleanslate - 2016-08-26 21:14:19",
+    "btdbattles_cleanslate - 2016-08-28 13:02:58",
+    "btdbattles_clubstarterpack - 2016-08-30 23:23:47",
+    "btdbattles_cleanslate - 2016-08-30 23:23:52",
+    "btdbattles_cleanslate - 2016-08-31 13:54:05",
+    "btdbattles_powerfulenergy - 2016-09-02 20:49:58",
+    "btdbattles_powerfulenergy - 2016-09-12 19:49:45",
+    "btdbattles_powerfulenergy - 2016-09-12 19:49:47",
+    "btdbattles_cleanslate - 2016-09-21 14:52:31",
+    "btdbattles_cleanslate - 2016-09-25 09:21:38",
+    "btdbattles_cleanslate - 2016-09-28 18:37:27",
+    "btdbattles_cleanslate - 2016-10-03 09:48:20",
+    "btdbattles_chatpack_pack2 - 2016-10-27 21:36:47",
+    "btdbattles_powerfulenergy - 2016-11-04 17:29:06"
+  ],
+  "BattleCardDecksNew": [
+    [
+      "0",
+      "1",
+      "7",
+      "5",
+      "8",
+      "9",
+      "41",
+      "3",
+      "16",
+      "45",
+      "15",
+      "37",
+      "36",
+      "23",
+      "48"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "CurrentBattleCardDeckNew": 0,
+  "CardUnlockProgressNew": {},
+  "NewCards": [],
+  "SeenUnlockPopupCards": [],
+  "UnlockedCards": [],
+  "LastPromoPopupTime": 1485265945569,
+  "LastPromoPopupCard": "84",
+  "ChatPacks": [
+    0,
+    1
+  ],
+  "Guilds": [
+    {
+      "id": "58889a93de6a8bf709ab12f2",
+      "name": "Hall of famers",
+      "joinMS": 1491643152391,
+      "pending": false,
+      "leaveMS": 1498912493370,
+      "left": false
+    },
+    {
+      "id": "58889a93de6a8bf709ab12f2",
+      "name": "Hall of famers",
+      "joinMS": 1485347475397,
+      "pending": false,
+      "leaveMS": 1485443667402,
+      "left": true
+    },
+    {
+      "id": "58889738c223b4f1093cd76a",
+      "name": "The best ever ",
+      "joinMS": 1485346616978,
+      "pending": false,
+      "leaveMS": 1485347339537,
+      "left": true
+    },
+    {
+      "id": "586f0c0ed960e6ae0d605579",
+      "name": "Kourouche N Co.",
+      "joinMS": 1485242182324,
+      "pending": false,
+      "leaveMS": 1485346218981,
+      "left": false
+    },
+    {
+      "id": "586f0c0ed960e6ae0d605579",
+      "name": "Kourouche N Co.",
+      "joinMS": 1484291685700,
+      "pending": false,
+      "leaveMS": 1484398900869,
+      "left": true
+    },
+    {
+      "id": "5876e399d4c5d9b10df8b20a",
+      "name": "number1",
+      "joinMS": 1484291420724,
+      "pending": false,
+      "leaveMS": 1484291432334,
+      "left": true
+    },
+    {
+      "id": "586f0c0ed960e6ae0d605579",
+      "name": "Kourouche N Co.",
+      "joinMS": 1484171295720,
+      "pending": false,
+      "leaveMS": 1484291420724,
+      "left": true
+    },
+    {
+      "id": "58546b91ebfb3e293c84931f",
+      "name": "The chosen ones",
+      "joinMS": 1483525752480,
+      "pending": false,
+      "leaveMS": 1483882996015,
+      "left": true
+    },
+    {
+      "id": "585be914968357980d76074a",
+      "name": "Icbc champions",
+      "joinMS": 1482837883068,
+      "pending": false,
+      "leaveMS": 1483525752480,
+      "left": true
+    },
+    {
+      "id": "585483a34fa8f69c0d7c2d96",
+      "name": "Fury-X-Beast",
+      "joinMS": 1482326280605,
+      "pending": false,
+      "leaveMS": 1482837883068,
+      "left": true
+    }
+  ],
+  "GuildTOC": true,
+  "ChatEnabled": true,
+  "ProcessedWarChest": true,
+  "WarChestHeroSpend": 0,
+  "UnlockedGuildSymbolComponents": [
+    "Shield_11",
+    "Shield_12",
+    "Shield_13",
+    "Icon_18_ZOMG",
+    "Icon_17_TechTerror",
+    "Icon_04_Sungod"
+  ],
+  "Following": [],
+  "HasSeenLinkNag": true,
+  "HasReceivedLinkNagReward": true,
+  "ProfileSkinUnlocks": [
+    "Pineapples",
+	"Skulls",
+	"SpikeBalls",
+	"Fire",
+	"Darts",
+	"Snakeskin"
+  ],
+  "ProfileSkin": "Pineapples",
+  "ProjectileSkinUnlocks": [
+    "SilverDarts",
+    "GoldenDarts"
+  ],
+  "ProjectileSkin": "GoldenDarts",
+  "TowerSkinUnlocks": [
+	"MedievalDartMonkey",
+	"MilitaryBombTower",
+	"SamuraiNinjaMonkey",
+	"SorcererMonkeyApprentice",
+	"HunterSniperMonkey",
+	"TribalBoomerangThrower",
+	"CandyBananaFarm",
+	"TopgunMonkeyAce",
+	"FireworksMortarTower",
+	"UFOHeliPilot",
+	"NavyMonkeyBuccaneer",
+	"SteampunkMonkeySub",
+	"DrMonkeyEngineer",
+	"EvilSuperMonkey",
+	"BazookaDartlingGun",
+	"MechanicalTackTower",
+	"ChristmasDartMonkey"
+  ],
+  "ActiveTowerSkins": [],
+  "LikedReplayMatchIDs": "192xahaiRbi8LdO_mfjXLd5_Mda0\\60`9`CPS",
+  "DateTime": 1500335293,
+  "HigherVersionProfile": "{\"AchievementAndScoreTracking\":{\"AttemptedAccountCreation\":false,\"BattlesLostInRow\":0,\"BattlesSinceAd\":2685,\"BattlesSinceSignInPrompt\":382,\"BattlesWon\":2542,\"BattlesWonAgainstHigherScore\":692,\"BattlesWonAgainstLowerScore\":1415,\"BattlesWonUsingDecals\":1,\"BattlesWonWithRandomLoadout\":183,\"QuickPlayBattlesLostArena\":70,\"QuickPlayBattlesLostAssault\":0,\"QuickPlayBattlesLostCardBattle\":2,\"QuickPlayBattlesLostDefense\":0,\"QuickPlayBattlesLostTraining\":0,\"QuickPlayBattlesWon\":2109,\"QuickPlayBattlesWonArena\":1508,\"QuickPlayBattlesWonAssault\":6,\"QuickPlayBattlesWonCardBattle\":0,\"QuickPlayBattlesWonDefense\":0,\"QuickPlayBattlesWonInRow\":2,\"QuickPlayBattlesWonTraining\":0,\"QuickplayMaxBattlesWonInRow\":158,\"SignInPromptCount\":1,\"TimesUsedBoosts\":6955,\"TotalBloonsPopped\":25252104,\"TotalBloonsSent\":761805},\"AchievementProgressObject\":{\"AchievementProgressArray\":[{\"Identifier\":\"BTDB_Boosted\",\"Progress\":100},{\"Identifier\":\"BTDB_GettingDefensive\",\"Progress\":0},{\"Identifier\":\"BTDB_HeavyAssault\",\"Progress\":6},{\"Identifier\":\"BTDB_JackOfAllTowers\",\"Progress\":100},{\"Identifier\":\"BTDB_OpenSeason\",\"Progress\":100},{\"Identifier\":\"BTDB_Penultimate\",\"Progress\":100},{\"Identifier\":\"BTDB_PoppingStreak\",\"Progress\":100},{\"Identifier\":\"BTDB_Spawner\",\"Progress\":100},{\"Identifier\":\"BTDB_TattooYou\",\"Progress\":100},{\"Identifier\":\"BTDB_TheBiggerTheyAre\",\"Progress\":100},{\"Identifier\":\"BTDB_TopTier\",\"Progress\":100},{\"Identifier\":\"BTDB_UberPopper\",\"Progress\":100},{\"Identifier\":\"BTDB_Unspoppable\",\"Progress\":100},{\"Identifier\":\"BTDB_WarPaint\",\"Progress\":100},{\"Identifier\":\"BTDB_WhatDidYouExpect\",\"Progress\":100},{\"Identifier\":\"BTDB_Winner\",\"Progress\":100}]},\"ActiveTowerSkins\":[],\"AdTimer\":{\"NextTime\":0},\"AdTrackingData\":{\"GameSpend\":214,\"GameStartTime\":0,\"NBoxPrompts\":0,\"NCrossPromo\":103,\"NInterstitial\":93,\"NRewardedPrompts\":95,\"NRewardedSeen\":31,\"NSalePrompts\":0,\"SpendAdjustment\":31536000000,\"TLIAPSale\":0,\"TNBoxPrompt\":8,\"TNCrossPromo\":1485438758421,\"TNInterstitial\":1478280546836,\"TNNewsPopup\":1500264736861,\"TNPrompt\":1478280546836,\"TNSalePrompt\":10},\"AnalyticsThrottle\":15,\"ArenaTickets\":[],\"AttemptedPurchases\":[\"btdbattles_cleanslate - 2016-06-30 00:09:40\",\"btdbattles_cleanslate - 2016-06-30 02:12:02\",\"btdbattles_cleanslate - 2016-08-03 11:39:10\",\"btdbattles_cleanslate - 2016-08-03 13:32:01\",\"btdbattles_powerfulenergy - 2016-08-09 13:29:00\",\"btdbattles_cleanslate - 2016-08-26 21:14:16\",\"btdbattles_cleanslate - 2016-08-28 13:02:57\",\"btdbattles_clubstarterpack - 2016-08-30 23:23:50\",\"btdbattles_cleanslate - 2016-08-30 23:23:56\",\"btdbattles_cleanslate - 2016-08-31 13:54:08\",\"btdbattles_powerfulenergy - 2016-09-02 20:49:59\",\"btdbattles_powerfulenergy - 2016-09-12 19:49:42\",\"btdbattles_powerfulenergy - 2016-09-12 19:49:46\",\"btdbattles_cleanslate - 2016-09-21 14:52:27\",\"btdbattles_cleanslate - 2016-09-25 09:21:09\",\"btdbattles_cleanslate - 2016-09-28 18:37:24\",\"btdbattles_cleanslate - 2016-10-03 09:48:16\",\"btdbattles_chatpack_pack2 - 2016-10-27 17:05:33\",\"btdbattles_chatpack_pack2 - 2016-10-27 21:35:40\",\"btdbattles_powerfulenergy - 2016-11-04 17:29:03\"],\"Badges\":[],\"BadgesList\":[{\"Count\":1,\"CountryCode\":\"\",\"Id\":\"black_diamond\",\"Rank\":0,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":1,\"CountryCode\":\"\",\"Id\":\"red_diamond\",\"Rank\":1,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":1,\"CountryCode\":\"\",\"Id\":\"diamond\",\"Rank\":2,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":6,\"CountryCode\":\"\",\"Id\":\"gold\",\"Rank\":99,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":12,\"CountryCode\":\"\",\"Id\":\"silvergold\",\"Rank\":999,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":9,\"CountryCode\":\"\",\"Id\":\"silverx2\",\"Rank\":9999,\"Score\":0,\"Type\":\"WORLD\"},{\"Count\":1,\"CountryCode\":\"AE\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"DE\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"ES\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"FR\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"SA\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"TR\",\"Id\":\"local_gold\",\"Rank\":0,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"AU\",\"Id\":\"local_silver\",\"Rank\":1,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"VN\",\"Id\":\"local_silver\",\"Rank\":1,\"Score\":0,\"Type\":\"REGION\"},{\"Count\":1,\"CountryCode\":\"ZA\",\"Id\":\"local_silver\",\"Rank\":1,\"Score\":0,\"Type\":\"REGION\"}],\"BattleCardDecksNew\":[[\"0\",\"1\",\"7\",\"5\",\"8\",\"9\",\"41\",\"3\",\"16\",\"45\",\"15\",\"37\",\"36\",\"23\",\"48\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]],\"BattleGearOwned\":[],\"CardUnlockProgressNew\":{},\"ChatEnabled\":true,\"ChatPacks\":[0,1],\"CompletedPurchases\":[\"btdbattles_cleanslate - 2016-05-28 19:59:04\",\"btdbattles_cleanslate - 2016-06-30 00:10:20\",\"btdbattles_cleanslate - 2016-06-30 02:12:44\",\"btdbattles_cleanslate - 2016-08-03 11:39:11\",\"btdbattles_cleanslate - 2016-08-03 13:32:01\",\"btdbattles_powerfulenergy - 2016-08-09 13:29:04\",\"btdbattles_cleanslate - 2016-08-26 21:14:19\",\"btdbattles_cleanslate - 2016-08-28 13:02:58\",\"btdbattles_clubstarterpack - 2016-08-30 23:23:47\",\"btdbattles_cleanslate - 2016-08-30 23:23:52\",\"btdbattles_cleanslate - 2016-08-31 13:54:05\",\"btdbattles_powerfulenergy - 2016-09-02 20:49:58\",\"btdbattles_powerfulenergy - 2016-09-12 19:49:45\",\"btdbattles_powerfulenergy - 2016-09-12 19:49:47\",\"btdbattles_cleanslate - 2016-09-21 14:52:31\",\"btdbattles_cleanslate - 2016-09-25 09:21:38\",\"btdbattles_cleanslate - 2016-09-28 18:37:27\",\"btdbattles_cleanslate - 2016-10-03 09:48:20\",\"btdbattles_chatpack_pack2 - 2016-10-27 21:36:47\",\"btdbattles_powerfulenergy - 2016-11-04 17:29:06\"],\"CurrentBattleCardDeckNew\":0,\"CurrentPlayedInfo\":[{\"ID\":\"Assault\",\"WinStreak\":7,\"WinTotal\":7},{\"ID\":\"BFB\",\"WinStreak\":9,\"WinTotal\":498},{\"ID\":\"Boss_Blastapopoulos\",\"WinStreak\":30,\"WinTotal\":30},{\"ID\":\"Boss_Bloonarius\",\"WinStreak\":8,\"WinTotal\":8},{\"ID\":\"Boss_Dreadbloon\",\"WinStreak\":21,\"WinTotal\":60},{\"ID\":\"Boss_Vortex\",\"WinStreak\":7,\"WinTotal\":10},{\"ID\":\"Ceramic\",\"WinStreak\":143,\"WinTotal\":727},{\"ID\":\"Ceramic_Club\",\"WinStreak\":30,\"WinTotal\":301},{\"ID\":\"Holiday_HauntedHouse\",\"WinStreak\":2,\"WinTotal\":2},{\"ID\":\"Holiday_Laboratory\",\"WinStreak\":4,\"WinTotal\":4},{\"ID\":\"Lead\",\"WinStreak\":27,\"WinTotal\":27},{\"ID\":\"Lead_Club\",\"WinStreak\":4,\"WinTotal\":4},{\"ID\":\"MOAB\",\"WinStreak\":0,\"WinTotal\":354},{\"ID\":\"MOAB_Club\",\"WinStreak\":2,\"WinTotal\":8},{\"ID\":\"Rainbow\",\"WinStreak\":1,\"WinTotal\":18},{\"ID\":\"Rainbow_Club\",\"WinStreak\":0,\"WinTotal\":17},{\"ID\":\"White\",\"WinStreak\":12,\"WinTotal\":12},{\"ID\":\"White_ChocolateBox\",\"WinStreak\":5,\"WinTotal\":5},{\"ID\":\"White_Club\",\"WinStreak\":12,\"WinTotal\":12},{\"ID\":\"Yellow\",\"WinStreak\":3,\"WinTotal\":3},{\"ID\":\"Yellow_Club\",\"WinStreak\":1,\"WinTotal\":3}],\"CurrentSeason\":{\"Banding\":\"[{\\\"badge\\\":\\\"black_diamond_prestige\\\",\\\"banding\\\":0,\\\"name\\\":\\\"black_diamond_prestige\\\"},{\\\"badge\\\":\\\"red_diamond_prestige\\\",\\\"banding\\\":1,\\\"name\\\":\\\"red_diamond_prestige\\\"},{\\\"badge\\\":\\\"diamond_prestige\\\",\\\"banding\\\":2,\\\"name\\\":\\\"diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_black_diamond_prestige\\\",\\\"banding\\\":9,\\\"name\\\":\\\"gold_black_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_red_diamond_prestige\\\",\\\"banding\\\":24,\\\"name\\\":\\\"gold_red_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_diamond_prestige\\\",\\\"banding\\\":99,\\\"name\\\":\\\"gold_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_prestige\\\",\\\"banding\\\":999,\\\"name\\\":\\\"gold_prestige\\\"},{\\\"badge\\\":\\\"silver_gold_prestige\\\",\\\"banding\\\":2499,\\\"name\\\":\\\"silver_gold_prestige\\\"},{\\\"badge\\\":\\\"silver_prestige\\\",\\\"banding\\\":4999,\\\"name\\\":\\\"silver_prestige\\\"},{\\\"badge\\\":\\\"bronze_silver_prestige\\\",\\\"banding\\\":9999,\\\"name\\\":\\\"bronze_silver_prestige\\\"},{\\\"badge\\\":\\\"bronze_prestige\\\",\\\"banding\\\":24999,\\\"name\\\":\\\"bronze_prestige\\\"}]\",\"EndTime\":1500462000000,\"EventId\":\"j4nodvpr\",\"Id\":\"Season_8\",\"Name\":\"Prestige Leaderboard\",\"StartTime\":1499252400000},\"CurrentWeeklyRewardsArray\":[\"[{\\\"banding\\\":0,\\\"medallions\\\":50},{\\\"banding\\\":1,\\\"medallions\\\":25},{\\\"banding\\\":2,\\\"medallions\\\":10}]\",\"[{\\\"badge\\\":\\\"local_gold\\\",\\\"banding\\\":0,\\\"medallions\\\":20000,\\\"name\\\":\\\"local_gold\\\"},{\\\"badge\\\":\\\"local_silver\\\",\\\"banding\\\":1,\\\"medallions\\\":12000,\\\"name\\\":\\\"local_silver\\\"},{\\\"badge\\\":\\\"local_bronze\\\",\\\"banding\\\":2,\\\"medallions\\\":6000,\\\"name\\\":\\\"local_bronze\\\"},{\\\"banding\\\":99,\\\"medallions\\\":3000},{\\\"banding\\\":999,\\\"medallions\\\":2000},{\\\"banding\\\":9999,\\\"medallions\\\":1200},{\\\"banding\\\":24999,\\\"medallions\\\":800},{\\\"banding\\\":49999,\\\"medallions\\\":400},{\\\"banding\\\":99999,\\\"medallions\\\":200}]\",\"[{\\\"badge\\\":\\\"black_diamond\\\",\\\"banding\\\":0,\\\"medallions\\\":1000000,\\\"name\\\":\\\"black_diamond\\\"},{\\\"badge\\\":\\\"red_diamond\\\",\\\"banding\\\":1,\\\"medallions\\\":600000,\\\"name\\\":\\\"red_diamond\\\"},{\\\"badge\\\":\\\"diamond\\\",\\\"banding\\\":2,\\\"medallions\\\":300000,\\\"name\\\":\\\"diamond\\\"},{\\\"badge\\\":\\\"gold\\\",\\\"banding\\\":99,\\\"medallions\\\":150000,\\\"name\\\":\\\"gold\\\"},{\\\"badge\\\":\\\"silvergold\\\",\\\"banding\\\":999,\\\"medallions\\\":20000,\\\"name\\\":\\\"silvergold\\\"},{\\\"badge\\\":\\\"silverx2\\\",\\\"banding\\\":9999,\\\"medallions\\\":6000,\\\"name\\\":\\\"silverx2\\\"},{\\\"badge\\\":\\\"silverx1\\\",\\\"banding\\\":24999,\\\"medallions\\\":4000,\\\"name\\\":\\\"silverx1\\\"},{\\\"badge\\\":\\\"bronzex1\\\",\\\"banding\\\":49999,\\\"medallions\\\":2000,\\\"name\\\":\\\"bronzex1\\\"},{\\\"banding\\\":99999,\\\"medallions\\\":1000},{\\\"banding\\\":249999,\\\"medallions\\\":250},{\\\"banding\\\":499999,\\\"medallions\\\":100}]\",\"[{\\\"badge\\\":\\\"black_diamond_prestige\\\",\\\"banding\\\":0,\\\"name\\\":\\\"black_diamond_prestige\\\"},{\\\"badge\\\":\\\"red_diamond_prestige\\\",\\\"banding\\\":1,\\\"name\\\":\\\"red_diamond_prestige\\\"},{\\\"badge\\\":\\\"diamond_prestige\\\",\\\"banding\\\":2,\\\"name\\\":\\\"diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_black_diamond_prestige\\\",\\\"banding\\\":9,\\\"name\\\":\\\"gold_black_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_red_diamond_prestige\\\",\\\"banding\\\":24,\\\"name\\\":\\\"gold_red_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_diamond_prestige\\\",\\\"banding\\\":99,\\\"name\\\":\\\"gold_diamond_prestige\\\"},{\\\"badge\\\":\\\"gold_prestige\\\",\\\"banding\\\":999,\\\"name\\\":\\\"gold_prestige\\\"},{\\\"badge\\\":\\\"silver_gold_prestige\\\",\\\"banding\\\":2499,\\\"name\\\":\\\"silver_gold_prestige\\\"},{\\\"badge\\\":\\\"silver_prestige\\\",\\\"banding\\\":4999,\\\"name\\\":\\\"silver_prestige\\\"},{\\\"badge\\\":\\\"bronze_silver_prestige\\\",\\\"banding\\\":9999,\\\"name\\\":\\\"bronze_silver_prestige\\\"},{\\\"badge\\\":\\\"bronze_prestige\\\",\\\"banding\\\":24999,\\\"name\\\":\\\"bronze_prestige\\\"}]\",\"\",\"[]\",\"[]\",\"[]\",\"[]\"],\"DailySpins\":0,\"DateTime\":1500299415,\"DetectedHacks\":0,\"Following\":[],\"FreeClubRoomEntries\":0,\"GuildTOC\":true,\"Guilds\":[{\"id\":\"58889a93de6a8bf709ab12f2\",\"joinMS\":1491643152391,\"leaveMS\":1498912493370,\"left\":false,\"name\":\"Hall of famers\",\"pending\":false},{\"id\":\"58889a93de6a8bf709ab12f2\",\"joinMS\":1485347475397,\"leaveMS\":1485443667402,\"left\":true,\"name\":\"Hall of famers\",\"pending\":false},{\"id\":\"58889738c223b4f1093cd76a\",\"joinMS\":1485346616978,\"leaveMS\":1485347339537,\"left\":true,\"name\":\"The best ever \",\"pending\":false},{\"id\":\"586f0c0ed960e6ae0d605579\",\"joinMS\":1485242182324,\"leaveMS\":1485346218981,\"left\":false,\"name\":\"Kourouche N Co.\",\"pending\":false},{\"id\":\"586f0c0ed960e6ae0d605579\",\"joinMS\":1484291685700,\"leaveMS\":1484398900869,\"left\":true,\"name\":\"Kourouche N Co.\",\"pending\":false},{\"id\":\"5876e399d4c5d9b10df8b20a\",\"joinMS\":1484291420724,\"leaveMS\":1484291432334,\"left\":true,\"name\":\"number1\",\"pending\":false},{\"id\":\"586f0c0ed960e6ae0d605579\",\"joinMS\":1484171295720,\"leaveMS\":1484291420724,\"left\":true,\"name\":\"Kourouche N Co.\",\"pending\":false},{\"id\":\"58546b91ebfb3e293c84931f\",\"joinMS\":1483525752480,\"leaveMS\":1483882996015,\"left\":true,\"name\":\"The chosen ones\",\"pending\":false},{\"id\":\"585be914968357980d76074a\",\"joinMS\":1482837883068,\"leaveMS\":1483525752480,\"left\":true,\"name\":\"Icbc champions\",\"pending\":false},{\"id\":\"585483a34fa8f69c0d7c2d96\",\"joinMS\":1482326280605,\"leaveMS\":1482837883068,\"left\":true,\"name\":\"Fury-X-Beast\",\"pending\":false}],\"HasReceivedLinkNagReward\":true,\"HasSeenLinkNag\":true,\"HigherVersionProfile\":\"\",\"Items\":{\"AudioCommentaryOn\":false,\"BloonDecal\":\"laterz\",\"EnergyRechargeBaseTime\":1498912653,\"EnergyRechargeRate\":900,\"EveryplayOn\":true,\"FaceCamCommentaryOn\":false,\"MusicOn\":false,\"NewDecals\":false,\"NewStoreContent\":false,\"OfferSeen_24HRemain\":[\"ClubStarterPackMobile\",\"StarterPack\"],\"OfferSeen_Initial\":[\"ClubStarterPack\",\"ClubStarterPackMobile\",\"EventID_imel3gek\",\"EventID_iwc232yt\",\"EventID_j0dyn1ye\",\"EventID_j3pw2hsu\",\"StarterPack\",\"VeteranCardUpdate\"],\"Premiums\":[\"BattlesChampion\",\"ChatPack_Pack2\",\"ClubRoomEntry\",\"ClubStarterPackMobile\",\"PowerCell\",\"RemoveAdverts\"],\"PushNoteSettingInt\":1,\"SFXOn\":false,\"ShowAds\":false,\"TowerInventory\":[{\"Amount\":1381,\"Type\":\"MonkeyFarmer\"}]},\"LastDailySpin\":1500264861073,\"LastFreeClubEntry\":1459584249555,\"LastPromoPopupCard\":\"84\",\"LastPromoPopupTime\":1485265945569,\"LastSpinAdTokenAddTime\":1500249600000,\"Levels\":{\"Avatar\":0,\"BattleScore\":999999999,\"BestWinStreak\":360,\"CurrentLeaderboard\":\"WeeklyMedallions:112\",\"CurrentWinStreak\":22,\"Energy\":20,\"LeaderboardAwaitingReward\":\"\",\"LeaderboardAwaitingRewardCountryCode\":\"\",\"LeaderboardCountryCode\":\"EG\",\"Losses\":7,\"LossesCard\":0,\"LossesStandard\":7,\"MedallionWinsTotal\":74547430,\"MedallionWinsWeekly\":0,\"Medallions\":99999999,\"Played\":2685,\"PrivatePlayed\":0,\"PrivatePlayedLink\":0,\"ProcessedLeaderboardRewards\":[true,true,true,true,true,true,true,true,true],\"UseSocialAvatar\":true,\"Wins\":1001,\"WinsCard\":0,\"WinsStandard\":1001},\"LikedReplayMatchIDs\":\"192xahaiRbi8LdO_mfjXLd5_Mda0\\\\60`9`CPS\",\"MatchIDAppend\":0,\"NKGifts\":[],\"NewCards\":[],\"NewFeatures\":[{\"Id\":\"BATTLESTV\",\"Seen\":true},{\"Id\":\"PRESTIGE_LB\",\"Seen\":true}],\"NewsContentHash\":1822056891,\"NumBattleGearSlots\":1,\"PlayedOpponents\":[],\"PreviousWeeklyRewardsArray\":[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],\"ProcessedWarChest\":true,\"ProfileSkin\":\"Skulls\",\"ProfileSkinUnlocks\":[\"SpikeBalls\",\"Pineapples\",\"Skulls\"],\"ProjectileSkin\":\"\",\"ProjectileSkinUnlocks\":[],\"ProviderLinkTries\":[3,2,4,4],\"PubSubStamps\":[{\"Id\":\"inbox\",\"Timestamp\":1485503885266}],\"RequiresStartingMedallions\":false,\"SeenUnlockPopupCards\":[],\"SpendConsumableInCents\":22074,\"SpendNonConsumableInCents\":2197,\"SpinAdTokens\":24,\"SpinSeed\":0,\"TimeLimitItemFirstSeen\":[{\"ItemId\":\"ClubStarterPack\",\"TimeSeen\":1491643154},{\"ItemId\":\"ClubStarterPackMobile\",\"TimeSeen\":1466604181},{\"ItemId\":\"StarterPack\",\"TimeSeen\":1459079745}],\"TowerSkinUnlocks\":[],\"UnlockedCards\":[],\"UnlockedGuildSymbolComponents\":[\"Shield_11\",\"Shield_12\",\"Shield_13\",\"Icon_18_ZOMG\",\"Icon_17_TechTerror\",\"Icon_04_Sungod\"],\"Unlocks\":{\"Decals\":[\"backstabber\",\"bloonception\",\"bullrush\",\"crackingup\",\"darkknight\",\"golden\",\"kingofthesea\",\"laterz\",\"ninjakiwi\",\"pickedoff\",\"stormed\"],\"New\":{},\"SentAchievementData\":[\"BTDB_Winner\",\"BTDB_JackOfAllTowers\",\"BTDB_WhatDidYouExpect\",\"BTDB_PoppingStreak\",\"BTDB_TheBiggerTheyAre\",\"BTDB_OpenSeason\",\"BTDB_Unspoppable\",\"BTDB_Penultimate\",\"BTDB_TopTier\",\"BTDB_Boosted\",\"BTDB_UberPopper\",\"BTDB_Spawner\",\"BTDB_TattooYou\",\"BTDB_WarPaint\"],\"TipsSeen\":939524099,\"TowerUpgrades\":[[\"DartMonkey\",4],[\"TackTower\",4],[\"SniperMonkey\",4],[\"NinjaMonkey\",4],[\"BombTower\",4],[\"BoomerangThrower\",4],[\"MonkeyApprentice\",4],[\"MonkeyBuccaneer\",4],[\"SpikeFactory\",4],[\"BananaFarm\",4],[\"MonkeyAce\",4],[\"IceTower\",4],[\"GlueGunner\",4],[\"MortarTower\",4],[\"SuperMonkey\",4],[\"MonkeyVillage\",4],[\"DartlingGun\",4],[\"MonkeyEngineer\",4],[\"HeliPilot\",4],[\"Bloonchipper\",4],[\"MonkeySub\",4],[\"CobraMonkey\",4]],\"Towers\":[\"DartMonkey\",\"TackTower\",\"SniperMonkey\",\"NinjaMonkey\",\"BombTower\",\"BoomerangThrower\",\"MonkeyApprentice\",\"MonkeyBuccaneer\",\"SpikeFactory\",\"BananaFarm\",\"MonkeyAce\",\"IceTower\",\"GlueGunner\",\"MortarTower\",\"SuperMonkey\",\"MonkeyVillage\",\"DartlingGun\",\"MonkeyEngineer\",\"HeliPilot\",\"Bloonchipper\",\"MonkeySub\",\"CobraMonkey\"],\"ViewedRuleSet\":[\"1.0\",\"FreePowerups_1.0\",\"ClassicRules_1.0\",\"PlayWithFire_1.0\",\"Speed_MegaBoost_1.0\",\"MegaBoosts_1.0\",\"Speed_PlayWithFire_1.0\",\"Speed_1.0\",\"R3_Bananza_PlayWithFire_1.0\",\"Speed_Bananza_PlayWithFire_1.0\"],\"ViewedScreenHelp\":[\"ChampionshipBracketIntro\",\"card_battle_tutorial\"]},\"Upgrades\":{},\"Version\":{\"LastGame\":[4,4,1],\"LastWelcomeSeen\":\"LOC_WELCOME_3_11\",\"OriginalVersion\":[0,0,0],\"analytics\":\"NO_LINK0c37b28e-71a6-4926-9d71-50366fe5b6ac\",\"link\":\"594d17ef1a06b9cc0a472327\",\"skuID\":\"gplay\"},\"WarChestHeroSpend\":0}"
+}
