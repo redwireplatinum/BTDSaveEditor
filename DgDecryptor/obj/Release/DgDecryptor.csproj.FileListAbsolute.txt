@@ -1,0 +1,14 @@
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.AboutBox.resources
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.MainForm.resources
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.Properties.Resources.resources
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.csproj.GenerateResource.Cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Release\NkDecrypt0r.exe.config
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Release\NkDecrypt0r.exe
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Release\NkDecrypt0r.pdb
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\NkDecrypt0r.exe
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\NkDecrypt0r.pdb
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Release\DgDecryptor.csproj.CopyComplete

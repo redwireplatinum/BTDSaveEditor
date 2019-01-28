@@ -1,0 +1,13 @@
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Debug\DgDecryptor.exe.config
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Debug\DgDecryptor.exe
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Debug\DgDecryptor.pdb
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.csprojResolveAssemblyReference.cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.Properties.Resources.resources
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.csproj.GenerateResource.Cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.exe
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.pdb
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.AboutBox.resources
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vadim\source\repos\DgDecryptor\DgDecryptor\obj\Debug\DgDecryptor.MainForm.resources
